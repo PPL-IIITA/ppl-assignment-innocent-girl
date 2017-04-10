@@ -2,9 +2,7 @@
 ppl-assignment-innocent-girl created by GitHub Classroom
 
 VANDANA YADAV
-
 (RIT2015060)
-
 SECTION-B
 
 BUID SYSTEM:-
