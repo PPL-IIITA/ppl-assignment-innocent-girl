@@ -15,7 +15,7 @@ OS Type - 64 bit.
 (All Codes Submitted are build and tested on NetBeans IDE 8.1 )
 
 
-Commands for Teminal in Linux:-
+Commands for Terminal in Linux:-
 
 
 (FOR Q1):-
